@@ -112,7 +112,7 @@ object CommonModule {
         db: CommonDatabase,
     ) : StackOverflowRepository {
         val toDate = System.currentTimeMillis() / 1000
-        val fromDate = toDate - ( 30 * 24 * 60 * 60)
+        val fromDate = toDate - ( 100 * 24 * 60 * 60)
 
         return StackOverflowRepositoryImpl(
             api = api,
