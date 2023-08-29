@@ -1,4 +1,4 @@
-package com.example.cleanarchitecturedictionaryapp.ui.screens
+package com.example.cleanarchitecturedictionaryapp.ui.components
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Home

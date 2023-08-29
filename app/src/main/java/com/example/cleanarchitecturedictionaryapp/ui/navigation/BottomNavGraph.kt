@@ -7,7 +7,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.example.cleanarchitecturedictionaryapp.domain.model.dictionary.WordInfo
 import com.example.cleanarchitecturedictionaryapp.domain.model.stackoverflow.StackOverflow
-import com.example.cleanarchitecturedictionaryapp.ui.screens.BottomBarScreen
+import com.example.cleanarchitecturedictionaryapp.ui.components.BottomBarScreen
 import com.example.cleanarchitecturedictionaryapp.ui.screens.dictionary.WordInfoItemComposable
 import com.example.cleanarchitecturedictionaryapp.ui.screens.stackoverflow.ArticlesList
 import com.example.cleanarchitecturedictionaryapp.ui.viewmodel.SharedViewModel
